@@ -1,1 +1,3 @@
 git tutorial
+
+git checkout <branch_name> :- used for move inside branch
