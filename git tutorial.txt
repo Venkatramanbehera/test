@@ -3,3 +3,5 @@ git tutorial
 git checkout <branch_name> :- used for move inside branch
 
 git push -u origin <branchname> :- push to the branch
+
+create a new branch and add somethings
